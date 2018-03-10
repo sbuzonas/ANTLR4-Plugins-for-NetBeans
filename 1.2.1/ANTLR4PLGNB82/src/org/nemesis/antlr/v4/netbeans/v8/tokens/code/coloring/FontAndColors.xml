@@ -4,8 +4,8 @@
  "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN"
  "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
 <fontscolors>
-    <fontcolor name="tokenIdentifier" foreColor="ff990000" default="default"/>
-    <fontcolor name="tokenLiteral"    foreColor="ff966496" default="default"/>
-    <fontcolor name="tokenValue"      foreColor="ff000099" default="default"/>
-    <fontcolor name="equal"           foreColor="black"    default="default"/>
+    <fontcolor name="tokenIdentifier" default="identifier"/>
+    <fontcolor name="tokenLiteral"    default="keyword"/>
+    <fontcolor name="tokenValue"      default="char" />
+    <fontcolor name="equal"           default="default"/>
 </fontscolors>
