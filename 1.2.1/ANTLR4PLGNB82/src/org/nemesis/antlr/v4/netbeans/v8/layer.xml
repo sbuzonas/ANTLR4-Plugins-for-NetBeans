@@ -38,6 +38,14 @@
             </folder>
         </folder>
     </folder>
+    <folder name="OptionsDialog">
+        <folder name="PreviewExamples">
+            <folder name="text">
+                <file name="x-g4" url="grammar/code/coloring/Hello.g4" />
+                <file name="x-tokens" url="tokens/code/coloring/Hello.tokens" />
+            </folder>
+        </folder>
+    </folder>
     <folder name="org-netbeans-api-project-libraries">
         <folder name="Libraries">
             <file name="ANTLR_4.6_complete.xml"
